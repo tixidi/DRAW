@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "python.autoComplete.extraPaths": [
+        "/home/hgzn-001/draw_blood_ws/devel/lib/python2.7/dist-packages",
+        "/home/hgzn-001/easy_vision/devel/lib/python2.7/dist-packages",
+        "/home/hgzn-001/universal_robot/devel/lib/python2.7/dist-packages",
+        "/home/hgzn-001/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/hgzn-001/gohi_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}

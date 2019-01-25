@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hsq/catkin_ws_msckf/devel/include",
+                "/home/hsq/MYNT-EYE-SDK-2/wrappers/ros/devel/include",
+                "/home/hsq/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/hsq/catkin_ws/src/beginner_tutorials/include",
+                "/home/hsq/catkin_ws/src/image_transport_tutorial/include",
+                "/home/hsq/catkin_ws_msckf/src/msckf_vio-master/include",
+                "/home/hsq/catkin_ws/src/realsense-2.0.3/realsense2_camera/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

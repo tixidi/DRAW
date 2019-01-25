@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="realsense_for_pick_node" pkg="realsense_for_pick" type="pcl_visualize_Realsense_for_pick"/>
+</launch>

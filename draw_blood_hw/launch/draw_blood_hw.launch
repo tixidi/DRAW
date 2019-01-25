@@ -1,0 +1,10 @@
+<launch>
+
+
+  <node name="serial_example_node" pkg="draw_blood_hw" type="serial_example_node"  />
+  <node name="talker_node" pkg="draw_blood_hw" type="talker_node" output="screen" />
+
+
+
+  
+</launch>

@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hgzn-001/gohi_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/hgzn-001/gohi_ws/src/HIGO_ROBOT/base_simple_controller/include",
+                "/home/hgzn-001/gohi_ws/src/HIGO_ROBOT/gohi_hw/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
